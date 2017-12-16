@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <canvas id="canvas" :width="screenWidth" :height="screenHeight"></canvas>
-    <canvas class="canvasbg"></canvas>
+    <canvas class="canvasbg" :width="screenWidth" :height="screenHeight"></canvas>
   </div>
 </template>
 

@@ -1,6 +1,6 @@
 {
   "name": "puge_background_bubble",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "气泡背景图",
   "author": "PUGE <my@owo.help>",
   "main": "./index.js",
