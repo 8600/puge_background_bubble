@@ -1,1 +1,1 @@
-export { default } from './comet'
+export { default } from './bubble'
